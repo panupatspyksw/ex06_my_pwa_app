@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ex06_my_pwa_app/static/css/main.f5d9f9b8.css",
+    "main.js": "/ex06_my_pwa_app/static/js/main.4ea2bc3d.js",
+    "static/js/787.32032a02.chunk.js": "/ex06_my_pwa_app/static/js/787.32032a02.chunk.js",
+    "service-worker.js": "/ex06_my_pwa_app/service-worker.js",
+    "static/media/SEGA.woff": "/ex06_my_pwa_app/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/ex06_my_pwa_app/index.html",
+    "main.f5d9f9b8.css.map": "/ex06_my_pwa_app/static/css/main.f5d9f9b8.css.map",
+    "main.4ea2bc3d.js.map": "/ex06_my_pwa_app/static/js/main.4ea2bc3d.js.map",
+    "787.32032a02.chunk.js.map": "/ex06_my_pwa_app/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5d9f9b8.css",
+    "static/js/main.4ea2bc3d.js"
+  ]
+}
